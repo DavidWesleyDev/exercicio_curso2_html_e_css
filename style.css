@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+    color:  #f5f2d0;
+    height: 100vh;
+}
+.apresentacao{
+    margin: 10% ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao__conteudo__titulo{
+    color: #f5f2d0;
+
+}
+.titulo-blog__destaque{
+    color: rgb(131, 2, 2);
+}
+.img{
+    height: 300px;
+width: 250px;
+
+}
